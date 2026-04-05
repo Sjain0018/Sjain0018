@@ -1,5 +1,4 @@
 # 💫 About Me:
-<img src="https://github-profile-trophy.vercel.app/?username=Sjain0018&theme=darkhub&no-frame=true&row=1&column=6" />
 I’m Sakshi Jain, a BCA student at CCS University with a strong foundation in C, C++, Java (DSA) and modern web development. I specialize in the MERN stack and have experience with Next.js, MySQL, EJS, and RESTful APIs. Passionate about building scalable applications, I’m open to internships and full-stack/backend opportunities.
 
 
