@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m Sakshi Jain, a BCA student at CCS University with a strong foundation in C, C++, Java (DSA) and modern web development. I specialize in the MERN stack and have experience with Next.js, MySQL, EJS, and RESTful APIs. Passionate about building scalable applications, I’m open to internships and full-stack/backend opportunities.
+I'm Sakshi Jain, an MCA student and Full-Stack Developer with a strong foundation in C, C++, Java, Data Structures & Algorithms, and modern web development.
+
+I build scalable, responsive, and user-focused web applications using the MERN stack, Next.js, and modern JavaScript technologies. I'm particularly interested in backend development, RESTful APIs, authentication, database design, and full-stack application architecture.
+
+Currently, I'm strengthening my skills in TypeScript, SQL, system design, DSA, and modern full-stack development while building real-world projects.
 
 
 ## 🌐 Socials:
